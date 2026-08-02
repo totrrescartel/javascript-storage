@@ -6,3 +6,5 @@ JSON serializer utility for browser storage keys in JavaScript.
 Clone this project and look at the source files:
 - `index.js`
 - `storage.js`
+
+*Initialized by totrrescartel workspace automation.*
